@@ -5,15 +5,44 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 Ingeniero Informático de la Universidad de Medellín - Colombia
+  <br>
+💻 Más de 20 años de experiencia en el proceso de desarrollo de software
+<br><br>
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+<b>COMPETENCIAS TÉCNICAS</b>
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+<b>Backend</b><br>
+.NET (C# y Visual Basic), Visual Basic (3.0, 4.0, 5.0, 6.0), <b>Python</b>
+<br><br>
+<b>Arquitectura y Patrones</b><br>
+MVC, Mediatr, IoC, Unit Of Work, DDD, Entity Framework, Dapper, Docker y Docker desktop Rest Services, Microservices, SOLID
+<br><br>
+<b>Base de Datos</b><br>
+SQL Server, ORACLE, DB2, Informix, My SQL, MariaDB, Postgress
+<br><br>
+<b>Frontend</b><br>
+JavaScript, jQuery, HTML 5, CSS, TypeScript, Angular, Bootstrap
+<br><br>
+<b>Análisis de datos</b>
+Analysis Services e Integration Services, Excel, Power BI, Python, Machine Learning, Deep Learning (NLP)
+<br><br>
+<b>Gestión de proyectos</b><br>
+DevOps, TFS, GIT, UML
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 Roles desempñaos eb el ámbito de data science: 
+<ul>
+    <li>Machine Learning</li>
+    <li>Deep Learning (NLP)</li>
+    <li>Planificación de esquemas de bases de datos</li>
+    <li>Análisis y visualización de datos</li>
+    <li>Análisis predictivo y aprendizaje automático</li>
+    <li>Operacionalización de modelos de aprendizaje automático</li>
+    <li>Líder equipo de Desarrollo</li>
+    <li>Arquitecto de soluciones</li>
+</ul>
 
-📫 Contacto: **@gmail.com**
+📫 Contacto: pedro.alvarezc@gmail.com**
 <!--Intro end-->
   </p>
 <br>
