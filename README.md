@@ -30,7 +30,7 @@ Analysis Services e Integration Services, Excel, Power BI, Python, Machine Learn
 <b>Gestión de proyectos</b><br>
 DevOps, TFS, GIT, UML
 
-📝 Roles desempñaos eb el ámbito de data science: 
+📝 Roles desempeñados en el ámbito de data science: 
 <ul>
     <li>Machine Learning</li>
     <li>Deep Learning (NLP)</li>
